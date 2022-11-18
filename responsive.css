@@ -1,0 +1,25 @@
+@media(max-width:768px){
+
+h2{
+font-size: 1.3em;
+}
+   
+.nav-list {
+    margin-top: 0px;
+    line-height: 17px;
+  }
+
+.Profile {
+    display:block;
+}
+    
+.image1 {
+    width: 100%;
+}
+  
+.syoukai{
+    width: 100%;
+}
+  
+
+}
